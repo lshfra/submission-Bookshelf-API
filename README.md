@@ -1,2 +1,1 @@
-Ini adalah dokumen submission, silahkan mampir !
-==
+Ini adalah dokumen submission
