@@ -33,7 +33,7 @@ Ini adalah dokumen submission
 ### 1.Persyaratan
 * Instalasi Software:
 - FLutter SDK (versi yang digunakan)
-- Android Studio atau Visual Studio Code (dengan Flutter plug in terinstal)
+- Android Studio atau Visual Studio Code (dengan Flutter dan Dart plugin terinstal)
 - Git untuk cloning repository
 
 * Platform Tools:
