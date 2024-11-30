@@ -3,9 +3,9 @@ Ini adalah dokumen submission
 
 # Project Android: : Checker 
 
-# Deskripsi : Merupakan aplikasi berbasis mobile dengan framwork Flutter menerapkan arsitektur BLoC (Business Logic Component) dengan tujuan utama adalah mampu untuk scan QR code pada tiket wisata yang di hasilkan pada gerbang utama wisata. 
+## Deskripsi : Merupakan aplikasi berbasis mobile dengan framwork Flutter menerapkan arsitektur BLoC (Business Logic Component) dengan tujuan utama adalah mampu untuk scan QR code pada tiket wisata yang di hasilkan pada gerbang utama wisata. 
 
-# Tujuan Dokumentasi : Mengarahkan pengembang dalam memahami, menggunakan code serta menjalankan aplikasi pada perangkat fisik dengan mudah
+## Tujuan Dokumentasi : Mengarahkan pengembang dalam memahami, menggunakan code serta menjalankan aplikasi pada perangkat fisik dengan mudah
 
 # Teknologi Library yang di gunakan 
 - Flutter dan versi SDK 
