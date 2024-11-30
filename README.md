@@ -7,7 +7,7 @@ Ini adalah dokumen submission
 
 ## Tujuan Dokumentasi : Mengarahkan pengembang dalam memahami, menggunakan code serta menjalankan aplikasi pada perangkat fisik dengan mudah
 
-# Teknologi Library yang di gunakan 
+### Teknologi Library yang di gunakan 
 - Flutter dan versi SDK 
 - Library Utama: 
  * flutter_bloc: Management State
